@@ -1,0 +1,30 @@
+{
+ "ntrial": 1000,
+ "nobj": 5,
+ "inversion_pct": {
+  "0": {
+   "baseline": 51.3,
+   "ladtz_s38": 50.3,
+   "ladtz_s15": 52.5,
+   "ladtz_s8": 50.6,
+   "pathttc_yaw": 21.4,
+   "pathttc_lean": 22.6
+  },
+  "20": {
+   "baseline": 61.6,
+   "ladtz_s38": 61.8,
+   "ladtz_s15": 61.5,
+   "ladtz_s8": 59.9,
+   "pathttc_yaw": 42.5,
+   "pathttc_lean": 43.6
+  },
+  "40": {
+   "baseline": 62.2,
+   "ladtz_s38": 62.2,
+   "ladtz_s15": 60.3,
+   "ladtz_s8": 58.0,
+   "pathttc_yaw": 46.1,
+   "pathttc_lean": 45.7
+  }
+ }
+}
